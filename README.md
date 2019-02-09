@@ -6,15 +6,14 @@
 ## Installation/Run Script:
 1. Python3 is required
 2. Colorama for python is needed
-  2a. To install colorama do pip3 install colorama in terminal
-3. Next drag Auto-Root.py into your system-tools folder/where adb files are located.
-  3a. For Windows do C:\Python3\python.exe C:\Users\Username\system-tools\auto-root-windows.py
-  3b. For Mac OS cd System-Tools Folder, then python3 auto-root-mac.py
+3. To install colorama do pip3 install colorama in terminal
+4. Next drag Auto-Root.py into your system-tools folder/where adb files are located.
+5. For Windows do C:\Python3\python.exe C:\Users\Username\system-tools\auto-root-windows.py
+6. For Mac OS cd System-Tools Folder, then python3 auto-root-mac.py
 
 
 ## Is this OSS (Open Source):
 1. Auto-Root is an OSS project.
-2.
 
 ## LTS and Updates:
 1. Official updates for Auto-Root can be downloaded from www.projectzevo.com
